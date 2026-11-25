@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+  <S:Body>
+    <ns2:emprunterLivreResponse xmlns:ns2="http://supnum.mr/bib">
+      <emprunt>
+        <numero>E-2026-0812</numero>
+        <dateRetour>2026-12-09</dateRetour>
+      </emprunt>
+    </ns2:emprunterLivreResponse>
+  </S:Body>
+</S:Envelope>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:bib="http://supnum.mr/bib">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <bib:emprunterLivre>
+      <idAdherent>A-117</idAdherent>
+      <isbn>978-1-234-5678-9</isbn>
+    </bib:emprunterLivre>
+  </soapenv:Body>
+</soapenv:Envelope>
